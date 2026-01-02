@@ -1,3 +1,5 @@
+#Chrome Extension For Time Tracking and Productivity Analytics 
+
 COMPANY:CODTECH IT SOLUTIONS
 
 NAME : KOUSALYA S V
@@ -10,7 +12,7 @@ DURATION : 4 WEEKS
 
 MENTOR : NEELA SANTOSH
 
-Overview  
+#Overview  
 
 
 FocusFlow Dashboard is a productivity tracking application designed to help individuals and teams understand how their time is spent online. Built with React, Express, and MongoDB, it provides a clean, professional interface that categorizes minutes into productive and unproductive. The dashboard uses a dark theme with violet branding to ensure readability and a polished look suitable for client presentations. By combining tabular data with interactive charts, FocusFlow makes productivity insights both clear and actionable.
