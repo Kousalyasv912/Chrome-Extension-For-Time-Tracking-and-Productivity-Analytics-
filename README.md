@@ -62,3 +62,23 @@ Once launched, the dashboard displays a table of sites visited along with produc
 
 # Why It Matters  
 In today’s digital world, understanding how we spend time online is critical for improving focus and efficiency. FocusFlow Dashboard bridges the gap between raw data and actionable insights, helping users identify patterns, reduce distractions, and optimize productivity. Whether for personal use or team management, this tool provides a professional, client‑ready solution for productivity tracking.
+
+# OUTPUT
+
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/d0ce80ea-1ae5-4978-9f2f-89e23e80a090" />
+
+<img width="1918" height="1020" alt="Image" src="https://github.com/user-attachments/assets/0b44eda2-adab-4ff9-b4fe-2f167f2376de" />
+
+<img width="1919" height="1020" alt="Image" src="https://github.com/user-attachments/assets/2afccc7a-e7fc-402d-b252-53f48cead223" />
+
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/15f14cb1-c509-4ab7-8754-01d7b1fe24f2" />
+
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/1ef2a457-7554-4b4a-86fd-251991d1de24" />
+
+<img width="1919" height="1016" alt="Image" src="https://github.com/user-attachments/assets/5d7e5a5c-771e-4a93-8765-6ea4c986ee29" />
+
+<img width="1273" height="1020" alt="Image" src="https://github.com/user-attachments/assets/eb43206f-4d4a-48ae-a9ea-05b3097cac05" />
+
+<img width="1351" height="1017" alt="Image" src="https://github.com/user-attachments/assets/24b7ef6a-1fc4-4d1e-872b-3aa3d1a2103f" />
+
+<img width="1600" height="1020" alt="Image" src="https://github.com/user-attachments/assets/a7a0d4d8-4d7c-48eb-8dda-e7ebf4582fbd" />
